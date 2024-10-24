@@ -5,7 +5,6 @@ import OurServices from "./Components/OurServices";
 import AccomplishmentSlider from "./Components/AccomplishmentSlider";
 import ClientsCarousel from "./Components/ClientsCarousel";
 import OurPartners from "./Components/OurPartners";
-import VideoSection from "./Components/VideoSection";
 import { useLanguage } from "../../LanguageContext";
 
 const Home = () => {
