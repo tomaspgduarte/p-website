@@ -32,7 +32,7 @@ function VideoSection() {
           height: "100%",
           width: "100%",
           position: "absolute",
-          top: 10px,
+          top: "10px",
           left: 0,
         }}
       />
