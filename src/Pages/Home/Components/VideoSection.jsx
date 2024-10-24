@@ -28,11 +28,11 @@ function VideoSection() {
         src={BgVideo}
         style={{
           objectFit: "cover",
-          opacity: "50%",
+          opacity: "100%",
           height: "100%",
           width: "100%",
           position: "absolute",
-          top: 0,
+          top: 10px,
           left: 0,
         }}
       />
