@@ -29,7 +29,7 @@ function VideoSection() {
         style={{
           objectFit: "cover",
           opacity: "100%",
-          height: "100%",
+          height: "80%",
           width: "100%",
           position: "absolute",
           top: "10px",
