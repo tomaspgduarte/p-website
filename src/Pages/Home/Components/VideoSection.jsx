@@ -25,6 +25,7 @@ function VideoSection() {
     >
       <img
         alt="perleques"
+        src={BgVideo}
         style={{
           objectFit: "cover",
           opacity: "50%",
