@@ -2,7 +2,7 @@ import React from "react";
 import { Typography, useTheme } from "@mui/material";
 import { useMediaQuery } from "react-responsive";
 
-import BgVideo from "../../../Assets/Images/"perleques.jpg";
+import BgVideo from "../../../Assets/Images/perleques.jpg;
 
 function VideoSection() {
   const theme = useTheme();
